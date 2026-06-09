@@ -1,4 +1,4 @@
-# Spam Email Classifier
+# Spam Email Classifier!
 
 A machine learning project that classifies emails and SMS messages as **spam** or **ham (legitimate)** using the Naive Bayes algorithm with TF-IDF feature extraction.
 
