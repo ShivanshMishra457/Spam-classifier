@@ -40,7 +40,7 @@ Run the interactive web app locally with Streamlit — enter any message and get
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spam-classifier.git
+git clone https://github.com/ShivanshMishra457/spam-classifier.git
 cd spam-classifier
 ```
 
